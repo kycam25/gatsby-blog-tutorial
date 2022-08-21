@@ -11,4 +11,6 @@ const AboutPage = () => {
   )
 }
 
+export const Head = () => <title>About Page</title>
+
 export default AboutPage
